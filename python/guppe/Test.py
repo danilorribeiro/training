@@ -1,0 +1,3 @@
+nome = "geek"
+
+dir(nome)
